@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663202954 source:c:\users\maico\documents\code block\palindromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

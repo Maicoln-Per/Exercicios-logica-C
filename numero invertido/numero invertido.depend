@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663193228 source:c:\users\maico\documents\code block\numero invertido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662328340 source:c:\users\maico\documents\code block\ordem_crescente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

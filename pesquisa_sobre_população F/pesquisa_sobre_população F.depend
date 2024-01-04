@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662946002 source:c:\users\maico\documents\code block\pesquisa_sobre_população f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
