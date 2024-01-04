@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661897925 source:c:\users\maico\documents\code block\área_do_quadrado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666467932 source:c:\users\maico\documents\code block\vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+

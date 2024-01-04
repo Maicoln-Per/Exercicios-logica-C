@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661973411 source:c:\users\maico\documents\code block\área_da_circunferência\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

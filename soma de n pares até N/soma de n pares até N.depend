@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663789047 source:c:\users\maico\documents\code block\soma de n pares até n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

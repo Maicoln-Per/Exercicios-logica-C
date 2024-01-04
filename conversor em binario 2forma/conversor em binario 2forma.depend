@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663189418 source:c:\users\maico\documents\code block\conversor em binario 2forma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

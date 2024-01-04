@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663435760 source:c:\users\maico\documents\code block\ano bissexto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1663435760 source:c:\users\maico\documents\code block\decidindo se um numero é primo resolução\ano bissexto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

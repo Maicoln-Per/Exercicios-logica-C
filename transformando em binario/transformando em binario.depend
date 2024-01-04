@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663188322 source:c:\users\maico\documents\code block\transformando em binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

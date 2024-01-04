@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661973296 source:c:\users\maico\documents\code block\soma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

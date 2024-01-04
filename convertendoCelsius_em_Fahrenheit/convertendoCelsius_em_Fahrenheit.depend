@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661976697 source:c:\users\maico\documents\code block\convertendocelsius_em_fahrenheit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

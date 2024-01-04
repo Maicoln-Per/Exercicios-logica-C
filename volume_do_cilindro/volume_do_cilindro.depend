@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661974712 source:c:\users\maico\documents\code block\volume_do_cilindro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663796199 source:c:\users\maico\documents\code block\decidindo se um numero é primo resolução\main.c
+	<stdio.h>
+	<locale.h>
+
